@@ -50,3 +50,7 @@
  #burger {
     height: 35px;
  }
+ #close {
+    height: 35px;
+    display: none;
+ }
